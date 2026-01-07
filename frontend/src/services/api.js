@@ -3,7 +3,7 @@ import axios from 'axios';
 // Switch automatically based on where the app is running
 const API_URL = window.location.hostname === 'localhost' 
   ? 'http://localhost:5001/api' 
-  : 'https://amarshi-gym-backend.onrender.com'; // <--- PASTE RENDER URL HERE
+  : 'https://amarshi-gym-backend.onrender.com/api'; // <--- PASTE RENDER URL HERE
 
 const api = axios.create({
   baseURL: API_URL,
