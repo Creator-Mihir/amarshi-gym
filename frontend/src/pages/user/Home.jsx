@@ -193,7 +193,7 @@ const Home = () => {
           </form>
           
           <div className="mt-16 text-white text-xs font-mono">
-            © 2025 IRON LAB INC. ALL RIGHTS RESERVED.
+            © 2026 AMARSHI FITNESS  INC. ALL RIGHTS RESERVED.
           </div>
         </div>
       </section>
